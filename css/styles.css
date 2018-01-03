@@ -1,0 +1,26 @@
+.resume {
+  text-align: center;
+  font-style: italic;
+}
+
+.education {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.work {
+  color: blue;
+  text-decoration: underline;
+}
+
+.skills {
+  color: green;
+}
+
+.skills2 {
+  color: blue;
+}
+
+.name {
+  font-style: bold;
+}
